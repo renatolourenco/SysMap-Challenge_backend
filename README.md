@@ -6,14 +6,14 @@ Small development in order to assess knowledge regarding the fullstack implement
 First, clone the repo via git:
 
 ```bash
-git clone git@github.com:renatolourenco/SysMap-Challenge.git
+git clone git@github.com:renatolourenco/SysMap-Challenge_backend.git
 ```
 
 ### BackEnd
 And then install the backend dependencies with npm.
 
 ```bash
-$ cd SysMap-Challenge/backend
+$ cd SysMap-Challenge_backend
 $ npm install
 ```
 
